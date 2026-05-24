@@ -4,7 +4,7 @@
 # https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
 
 version: v.12.33.23.00.12.00
-updates: new AI file name AI.py , download it
+updates: new AI file name AI.py ,download it
   - package-ecosystem: "" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
